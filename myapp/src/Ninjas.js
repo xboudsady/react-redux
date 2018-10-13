@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './Ninjas.css';
 
 // This is a UI based component, so we can use a function component, we're not storing state
 const Ninjas = ({ninjas, deleteNinja}) => {
